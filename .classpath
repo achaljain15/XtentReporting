@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/ssand/eclipse-workspace/TestNGProject2/JarFiles Homemade/XtentReport/extentreports-3.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ssand/eclipse-workspace/Automation Framework/JARFiles/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ssand/eclipse-workspace/ExtentReporting/Jars/bson-3.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ssand/eclipse-workspace/ExtentReporting/Jars/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ssand/eclipse-workspace/ExtentReporting/Jars/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ssand/eclipse-workspace/ExtentReporting/Jars/extentreports-3.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ssand/eclipse-workspace/ExtentReporting/Jars/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ssand/eclipse-workspace/ExtentReporting/Jars/gson-2.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ssand/eclipse-workspace/ExtentReporting/Jars/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ssand/eclipse-workspace/ExtentReporting/Jars/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ssand/eclipse-workspace/ExtentReporting/Jars/httpmime-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ssand/eclipse-workspace/ExtentReporting/Jars/jsoup-1.9.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ssand/eclipse-workspace/ExtentReporting/Jars/mongodb-driver-3.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ssand/eclipse-workspace/ExtentReporting/Jars/mongodb-driver-core-3.3.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
